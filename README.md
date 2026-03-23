@@ -1,5 +1,4 @@
 # yula-web-search
-yula-web-search
 ===========
 
 No API key required web search skill for OpenClaw.
@@ -14,15 +13,32 @@ Features
 - 🇨🇳 **Optimized for Chinese language queries**
 - 📦 Works with local network/proxy — no external API required
 
-Author
-------
+## Author
 
-Created by Yula  
+Created by **Yula**  
 GitHub: https://github.com/wjzhb/yula-web-search
 
-If you like this skill, **please star it on GitHub** ⭐
+If you find this skill useful, **please ⭐ star it on GitHub!**
 
-License
--------
+## ☕ Buy me a coffee
+
+If you enjoy this project and want to support its development, you can buy me a coffee via:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>微信</b><br>
+        <img src="./img/wechat-qrcode.jpg" width="200" alt="Wechat QRCode">
+      </td>
+      <td align="center">
+        <b>支付宝</b><br>
+        <img src="./img/alipay-qrcode.jpg" width="200" alt="Alipay QRCode">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## License
 
 MIT
