@@ -16,7 +16,7 @@ Features
 
 ## Author
 
-Created by **Yula**  
+Created by **Yula** (yula)  
 GitHub: https://github.com/wjzhb/yula-web-search
 
 If you find this skill useful, **please ⭐ star it on GitHub!**
@@ -26,7 +26,7 @@ If you find this skill useful, **please ⭐ star it on GitHub!**
 If you enjoy this project and want to support its development, you can donate via:
 
 <div align="center">
-  <table>
+  <display_Html_Table><table>
     <tr>
       <td align="center">
         <b>微信</b><br>
@@ -43,9 +43,11 @@ If you enjoy this project and want to support its development, you can donate vi
         <code>0x5bcc2Cec253a7d625b7A98049C8775c61750f812</code>
       </td>
     </tr>
-  </table>
+  </table></display_Html_Table>
 </div>
 
 ## License
 
-MIT
+Copyright (c) 2026 [Yula](https://github.com/wjzhb)
+
+Licensed under the [MIT License](LICENSE)
