@@ -235,7 +235,12 @@ Always use a modern browser User-Agent to avoid being blocked immediately:
 ## Author
 
 Created by **Yula**  
-GitHub: https://github.com/wjzhb
+GitHub: https://github.com/wjzhb/yula-web-search
+## License
+
+Copyright (c) 2026 [Yula](https://github.com/wjzhb)
+
+Licensed under the [MIT License](LICENSE)
 
 If you find this skill useful, **please ⭐ star it on GitHub**!
 
