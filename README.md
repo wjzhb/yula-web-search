@@ -1,6 +1,7 @@
-# yula-web-search
-===========
+# 🔍 yula-web-search
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+===========
 No API key required web search skill for OpenClaw.
 
 Features
