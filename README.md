@@ -4,6 +4,8 @@
 ===========
 No API key required web search skill for OpenClaw.
 
+**[中文说明](./README-zh.md)**
+
 Features
 --------
 
