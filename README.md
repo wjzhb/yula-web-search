@@ -25,4 +25,4 @@ If you like this skill, **please star it on GitHub** ⭐
 License
 -------
 
-MIT-0
+MIT
