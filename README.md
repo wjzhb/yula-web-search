@@ -22,7 +22,7 @@ If you find this skill useful, **please ⭐ star it on GitHub!**
 
 ## ☕ Buy me a coffee
 
-If you enjoy this project and want to support its development, you can buy me a coffee via:
+If you enjoy this project and want to support its development, you can donate via:
 
 <div align="center">
   <table>
@@ -34,6 +34,12 @@ If you enjoy this project and want to support its development, you can buy me a 
       <td align="center">
         <b>支付宝</b><br>
         <img src="./img/alipay-qrcode.jpg" width="200" alt="Alipay QRCode">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <b>BNB (BSC)</b><br>
+        <code>0x5bcc2Cec253a7d625b7A98049C8775c61750f812</code>
       </td>
     </tr>
   </table>
