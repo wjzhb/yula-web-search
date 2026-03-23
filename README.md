@@ -1,10 +1,11 @@
 # 🔍 yula-web-search
 
+[![ClawHub Badge](https://img.shields.io/badge/ClawHub-yula--web--search-blue)](https://clawhub.ai/wjzhb/yula-web-search)
+[![GitHub stars](https://img.shields.io/github/stars/wjzhb/yula-web-search?style=social)](https://github.com/wjzhb/yula-web-search)
+
 <img src="./img/logo.png" width="100" alt="yula-web-search logo">
 ===========
 No API key required web search skill for OpenClaw.
-
-**[中文说明](./README-zh.md)**
 
 Features
 --------
@@ -28,7 +29,7 @@ If you find this skill useful, **please ⭐ star it on GitHub!**
 If you enjoy this project and want to support its development, you can donate via:
 
 <div align="center">
-  <display_Html_Table><table>
+  <table>
     <tr>
       <td align="center">
         <b>微信</b><br>
@@ -45,7 +46,7 @@ If you enjoy this project and want to support its development, you can donate vi
         <code>0x5bcc2Cec253a7d625b7A98049C8775c61750f812</code>
       </td>
     </tr>
-  </table></display_Html_Table>
+  </table>
 </div>
 
 ## License
