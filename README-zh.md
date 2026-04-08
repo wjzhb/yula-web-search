@@ -1,5 +1,8 @@
 # 🔍 yula-web-search
 
+[![ClawHub Badge](https://img.shields.io/badge/ClawHub-yula--web--search-blue)](https://clawhub.ai/wjzhb/yula-web-search)
+[![GitHub stars](https://img.shields.io/github/stars/wjzhb/yula-web-search?style=social)](https://github.com/wjzhb/yula-web-search)
+
 <img src="./img/logo.png" width="100" alt="yula-web-search logo">
 
 ===========
