@@ -4,8 +4,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/wjzhb/yula-web-search?style=social)](https://github.com/wjzhb/yula-web-search)
 
 <img src="./img/logo.png" width="100" alt="yula-web-search logo">
+
 ===========
+
 No API key required web search skill for OpenClaw.
+
+**English** | [中文](./README-zh.md)
 
 Features
 --------
@@ -54,3 +58,7 @@ If you enjoy this project and want to support its development, you can donate vi
 Copyright (c) 2026 [Yula](https://github.com/wjzhb)
 
 Licensed under the [MIT License](LICENSE)
+
+---
+
+**Chinese version**: [README-zh.md](./README-zh.md)
